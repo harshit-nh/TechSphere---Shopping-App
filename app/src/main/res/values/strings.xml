@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TechSphere</string>
+    <string name="laptopTxt">ASUS VivoBook 15, the epitome of style, performance, and versatility in a sleek package. Designed to meet the needs of modern-day users,
+        this laptop seamlessly blends cutting-edge technology with a stunning design,
+        making it the perfect companion for work, entertainment, and everything in between.
+        At the heart of the ASUS VivoBook 15 lies a powerful Intel Core processor,
+        delivering lightning-fast performance and seamless multitasking capabilities with a
+        vibrant 15.6-inch Full HD display.\n\n
+        Order now and immerse yourself in the boundless possibilities of the digital world.</string>
+
+    <string name="consoleTxt">Prepare to embark on an unparalleled gaming journey with the highly anticipated PS-5 Digital.
+        Assembled with cutting-edge technology and designed to cater to the modern gamer,
+        this console transcends boundaries, delivering a seamless and immersive gaming encounter
+        like never before. The PS-5 Digital comes paired with the innovative DualSense controller,
+        redefining the way you interact with your games. With haptic feedback and adaptive triggers,
+        every sensation is magnified, offering a heightened level of immersion.\n\n
+        Order now and immerse yourself in the boundless possibilities of the digital world.</string>
+
+    <string name="phoneTxt"> Elevating the standards of excellence yet again, the IPhone 14
+        pushes the boundaries of what\'s possible, delivering a seamless fusion of power,
+        performance, and elegance. Powered by the latest A-series chip, the iPhone 14 offers unparalleled
+        performance that effortlessly handles everything you throw at it.
+        From multitasking with ease to running graphics-intensive games flawlessly,
+        this device ensures a smooth and responsive user experience at every turn.\n\n
+        Order yours today and experience innovation like never before.</string>
+
+    <string name="visionTxt">Apple\'s Vision Pro is a virtual reality headset that displays high-resolution
+        graphics and lets users control a desktop interface using their eyes and hand gestures.
+        It has a curved laminated glass display, aluminum frame, flexible cushion, and adjustable headband.
+        The frame contains five sensors, six microphones, and 12 cameras.
+        The Vision Pro is controlled by voice, eyes, and hands, and has no controllers.
+        The Vision Pro has an external battery that supports up to 2 hours of general
+        use and up to 2.5 hours of video playback. \n\n
+        Explore the endless possibilities of Augmented Reality with Apple Vision Pro today!</string>
+
+    <string name="audioTxt">AirPods Pro – the next evolution in wireless audio technology.\n\n
+        Designed for the modern lifestyle, AirPods Pro offer a perfect blend of style, comfort, and performance.
+        The iconic AirPods design has been refined to fit even more comfortably in your ears,
+        providing a secure and snug fit for all-day wear. Equipped with custom-designed drivers,
+        these earbuds deliver rich, immersive sound with deep bass and crisp highs.
+        Whether you\'re listening to your favorite music, taking calls, or watching movies,
+        AirPods 3 ensure an exceptional audio experience every time.\n\n
+    Upgrade to AirPods Pro and elevate your listening experience to new heights.</string>
+</resources>
